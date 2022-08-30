@@ -1,0 +1,6 @@
+com\itheima\web\Servletdemo2.class
+com\itheima\web\Servletdemo1.class
+com\itheima\pojo\User.class
+com\itheima\mapper\UserMapper.class
+com\itheima\pojo\Brand.class
+com\itheima\util\SqlSessionFactoryCre.class
